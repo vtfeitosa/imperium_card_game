@@ -1,7 +1,7 @@
 Tema geral: Guerra | Refugiados | Imigração | Repatriação | Manipulação de Países
 
 Desenvolvedores:
-ANDRESSA GOMES LUSTOSA ANGELO                                                                                     
+ANDRESSA GOMES LUSTOSA ANGELO
 RONALDO SILVA ARAUJO JUNIOR 
 SAMUEL VICTOR DA SILVA ARAUJO
 VITÓRIA MARIA COSTA FEITOSA
