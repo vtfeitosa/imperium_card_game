@@ -1,0 +1,10 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image: url(./assets/images/fundo_home.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: #35312b;
+}
